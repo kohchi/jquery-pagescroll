@@ -20,10 +20,9 @@ $('a[href*="#"]').pagescroll({
 
 Options
 -------
-+ `duration` :
++ `duration` :  
   millisecond of move interval time. The default is 1200(ms).
-
-+ `easing` :
++ `easing` :  
   function name of how to move. The default is null (same as '_easeOutQuart_').
 
 If you want to set the easing option name to the option, you require
