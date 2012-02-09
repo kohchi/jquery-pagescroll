@@ -1,4 +1,4 @@
-jquery-scroll
+jquery-pagescroll
 =============
 scroll to id or name attribute smoothly within the page.
 
@@ -18,10 +18,10 @@ $('a[href*="#"]').pagescroll({
 });
 ```
 
-+ `duration` :
-  millisecond of move interval time. The default is 1200(ms).
-+ `easing` :
-  function name of how to move. The default is null (same as _easeOutQuart_).
++  `duration` :
+   millisecond of move interval time. The default is 1200(ms).
++  `easing` :
+   function name of how to move. The default is null (same as _easeOutQuart_).
 
 If you want to set the easing option name to the option, you require
 including jQuery Easing plugin (http://gsgd.co.uk/sandbox/jquery/easing/).
