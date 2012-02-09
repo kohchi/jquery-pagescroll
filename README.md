@@ -1,5 +1,5 @@
 jquery-pagescroll
-=============
+=================
 scroll to id or name attribute smoothly within the page.
 
 This is the jquery plugin that the page scrolls smoothly to
